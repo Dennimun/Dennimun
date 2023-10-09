@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/Dennimun/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Dennimun/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Dennimun/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Dennimun/azuread-on-premise-config)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Dennimun/azure-network-protocols)
   - [Network File Shares and Permissions Groups](https://github.com/Dennimun/NetworkFileSharesAndPermissions)
     
